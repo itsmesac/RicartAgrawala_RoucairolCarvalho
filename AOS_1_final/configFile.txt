@@ -1,0 +1,11 @@
+10
+0 net30.utdallas.edu 5550
+1 net31.utdallas.edu 5551
+2 net32.utdallas.edu 5552
+3 net33.utdallas.edu 5553
+4 net34.utdallas.edu 5554
+5 net35.utdallas.edu 5555
+6 net36.utdallas.edu 5556
+7 net37.utdallas.edu 5557
+8 net38.utdallas.edu 5558
+9 net39.utdallas.edu 5559

@@ -1,0 +1,355 @@
+./node 0 configFile.txt
+
+leader : Node 1 connected
+leader : sent conn data to node 1
+leader : Node 2 connected
+leader : sent conn data to node 2
+leader : Node 3 connected
+leader : sent conn data to node 3
+leader : Node 4 connected
+leader : sent conn data to node 4
+leader : Node 5 connected
+leader : sent conn data to node 5
+leader : Node 6 connected
+leader : sent conn data to node 6
+leader : Node 7 connected
+leader : sent conn data to node 7
+leader : Node 8 connected
+leader : sent conn data to node 8
+leader : Node 9 connected
+leader : sent conn data to node 9
+leader : All nodes connected to leader
+node(0) : CS count 0
+
+********************************************************************************
+18 messages sent/received for CS access
+0.04 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 1
+
+********************************************************************************
+18 messages sent/received for CS access
+0.21 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 2
+
+********************************************************************************
+18 messages sent/received for CS access
+0.22 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 3
+
+********************************************************************************
+18 messages sent/received for CS access
+0.21 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 4
+
+********************************************************************************
+18 messages sent/received for CS access
+0.22 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 5
+
+********************************************************************************
+18 messages sent/received for CS access
+0.20 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 6
+
+********************************************************************************
+18 messages sent/received for CS access
+0.20 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 7
+
+********************************************************************************
+16 messages sent/received for CS access
+0.22 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 8
+
+********************************************************************************
+18 messages sent/received for CS access
+0.17 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 9
+
+********************************************************************************
+14 messages sent/received for CS access
+0.17 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 10
+
+********************************************************************************
+18 messages sent/received for CS access
+0.22 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 11
+
+********************************************************************************
+18 messages sent/received for CS access
+0.21 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 12
+
+********************************************************************************
+18 messages sent/received for CS access
+0.17 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 13
+
+********************************************************************************
+18 messages sent/received for CS access
+0.22 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 14
+
+********************************************************************************
+14 messages sent/received for CS access
+0.17 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 15
+
+********************************************************************************
+18 messages sent/received for CS access
+0.15 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 16
+
+********************************************************************************
+18 messages sent/received for CS access
+0.20 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 17
+
+********************************************************************************
+16 messages sent/received for CS access
+0.17 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 18
+
+********************************************************************************
+16 messages sent/received for CS access
+0.17 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 19
+
+********************************************************************************
+18 messages sent/received for CS access
+0.19 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 20
+
+********************************************************************************
+14 messages sent/received for CS access
+0.18 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 21
+
+********************************************************************************
+18 messages sent/received for CS access
+0.30 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 22
+
+********************************************************************************
+18 messages sent/received for CS access
+0.02 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 23
+
+********************************************************************************
+18 messages sent/received for CS access
+0.02 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 24
+
+********************************************************************************
+16 messages sent/received for CS access
+0.03 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 25
+
+********************************************************************************
+18 messages sent/received for CS access
+0.01 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 26
+
+********************************************************************************
+18 messages sent/received for CS access
+0.01 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 27
+
+********************************************************************************
+16 messages sent/received for CS access
+0.17 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 28
+
+********************************************************************************
+18 messages sent/received for CS access
+0.03 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 29
+
+********************************************************************************
+18 messages sent/received for CS access
+0.08 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 30
+
+********************************************************************************
+18 messages sent/received for CS access
+0.01 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 31
+
+********************************************************************************
+18 messages sent/received for CS access
+0.06 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 32
+
+********************************************************************************
+16 messages sent/received for CS access
+0.02 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 33
+
+********************************************************************************
+14 messages sent/received for CS access
+0.00 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 34
+
+********************************************************************************
+8 messages sent/received for CS access
+0.03 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 35
+
+********************************************************************************
+8 messages sent/received for CS access
+0.00 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 36
+
+********************************************************************************
+8 messages sent/received for CS access
+0.01 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 37
+
+********************************************************************************
+6 messages sent/received for CS access
+0.00 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 38
+
+********************************************************************************
+8 messages sent/received for CS access
+0.02 seconds reqd for CS access
+********************************************************************************
+
+
+node(0) : CS count 39
+
+********************************************************************************
+8 messages sent/received for CS access
+0.03 seconds reqd for CS access
+********************************************************************************
+
+
+My request count = 315
+My response count = 308
+Min count of msgs per CS access = 0
+Max count of msgs per CS access = 18
+Avg waiting time for first 20 CS requests : 0.19
+Avg waiting time for second 20 CS requests : 0.05
+=============================================node(0) done with 40 critical section accesses=============================================
+
+Total request count = 3163
+Total response count = 3138
+leader: send of terminate message to all done
+
+All sockets closed, terminating...
+{net30:~/AOS/AOS_2}
